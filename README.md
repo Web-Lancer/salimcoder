@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @salimcoder
-- 👀 I’m interested in ... developing creative website.
+- 👀 I’m interested in ... developing creative websites.
 - 🌱 I’m currently learning ... MERN Stack.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... coding. 
+- 📫 How to reach me ... see my profile.
 
 <!---
 salimcoder/salimcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
